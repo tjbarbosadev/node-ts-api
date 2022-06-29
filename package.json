@@ -1,0 +1,27 @@
+{
+  "name": "ts-api",
+  "version": "1.0.0",
+  "description": "Curso Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tjbarbosa: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@github.com/tjbarbosadev/node-ts-api.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "api"
+  ],
+  "author": "Thiago Xanhenha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjbarbosadev/node-ts-api/issues"
+  },
+  "homepage": "https://github.com/tjbarbosadev/node-ts-api#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
